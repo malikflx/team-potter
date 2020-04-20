@@ -1,0 +1,19 @@
+{
+  "name": "team-potter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woz-U-Group-Projects/team-potter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Woz-U-Group-Projects/team-potter/issues"
+  },
+  "homepage": "https://github.com/Woz-U-Group-Projects/team-potter#readme"
+}
